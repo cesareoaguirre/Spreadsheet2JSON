@@ -20,6 +20,9 @@ The json out file path.
 
 # some perl dependencies are avalable with this commands.
 sudo cpan install JSON::XS
+
 sudo cpan install Spreadsheet::ParseExcel
+
 sudo cpan install Spreadsheet::XLSX
+
 sudo cpan install Spreadsheet::ParseXLSX
